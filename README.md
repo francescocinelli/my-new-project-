@@ -37,11 +37,11 @@ We prioritize the privacy and security of user data. AI Doctor adheres to string
 
 ## Try It Yourself
 
-Feel free to fork this repository and explore our [interactive diagnostic notebook](notebooks/AIDoctor_Diagnostic_Simulation.ipynb) to see how AI Doctor performs medical diagnoses.
+Feel free to fork this repository and explore our [interactive diagnostic notebook]) to see how AI Doctor performs medical diagnoses.
 
 ## How to Contribute
 
-We welcome contributions from the community to enhance and expand the capabilities of AI Doctor. Check out our [contribution guidelines](CONTRIBUTING.md) for more information.
+We welcome contributions from the community to enhance and expand the capabilities of AI Doctor. Check out our [contribution guidelines]) for more information.
 
 ## Acknowledgments
 
