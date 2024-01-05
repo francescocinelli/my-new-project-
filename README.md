@@ -1,9 +1,4 @@
 # AI Doctor - Diagnosi Mediche Avanzate
-
-![AI Doctor]
-![foto-dottore](https://github.com/francescocinelli/my-new-project-/assets/119416486/543442d8-ae36-4e4c-a272-38c701e5a7f7)
-
-
 ## Introduzione
 
 Benvenuti in AI Doctor, l'evoluzione delle diagnosi mediche basate sull'intelligenza artificiale. La nostra piattaforma si impegna a fornire diagnosi dettagliate e personalizzate, sfruttando algoritmi avanzati e l'analisi di dati clinici.
