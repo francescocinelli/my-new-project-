@@ -1,6 +1,6 @@
 # AI Doctor - Intelligent Medical Diagnostics
 
-![AI Doctor](images/ai_doctor_banner.png)
+![image of a doctor](https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.freepik.com%2Ffoto-vettori-gratuito%2Fdottore&psig=AOvVaw1VDsSSDpvhzQ_T1p8nTedG&ust=1704558805772000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJj1qcLWxoMDFQAAAAAdAAAAABAE)
 
 ## Introduction
 
