@@ -16,7 +16,6 @@ At AI Doctor, our mission is to revolutionize the diagnostic process, making it 
 
 AI Doctor employs advanced machine learning algorithms to analyze diverse medical data, including symptoms, medical history, and biometric information. This enables the system to generate precise and reliable diagnoses.
 
-![AI Doctor in Action](images/ai_doctor_diagnosis.png)
 
 ### Rapid Analysis
 
