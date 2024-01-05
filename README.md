@@ -1,6 +1,6 @@
 # AI Doctor - Intelligent Medical Diagnostics
 
-![image of a doctor](https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.freepik.com%2Ffoto-vettori-gratuito%2Fdottore&psig=AOvVaw1VDsSSDpvhzQ_T1p8nTedG&ust=1704558805772000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJj1qcLWxoMDFQAAAAAdAAAAABAE)
+![Image of a doctor](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fit%2Fphotos%2Fdottore.html&psig=AOvVaw1VDsSSDpvhzQ_T1p8nTedG&ust=1704558805772000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJj1qcLWxoMDFQAAAAAdAAAAABAI)
 
 ## Introduction
 
