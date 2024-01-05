@@ -1,53 +1,41 @@
-# AI Doctor - Personalized Healthcare Companion
+# AI Doctor - Diagnosi Mediche Avanzate
 
-![AI Doctor]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fit%2Fphotos%2Fdottore.html&psig=AOvVaw0F_M-FbqsXkZlXcUFT9O4D&ust=1704554887979000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNC1rvfHxoMDFQAAAAAdAAAAABAD))
+![AI Doctor](images/ai_doctor_banner.png)
 
-## Summary
+## Introduzione
 
-AI Doctor is an advanced healthcare AI designed to provide personalized medical insights and proactive health recommendations. This project is developed as part of the "Building AI" course.
+Benvenuti in AI Doctor, l'evoluzione delle diagnosi mediche basate sull'intelligenza artificiale. La nostra piattaforma si impegna a fornire diagnosi dettagliate e personalizzate, sfruttando algoritmi avanzati e l'analisi di dati clinici.
 
-## Background
+## Caratteristiche Principali
 
-Traditional healthcare systems often lack individualized care. AI Doctor addresses this gap by offering a virtual doctor experience. The project aims to enhance healthcare services by providing timely medical insights and recommendations.
+### Diagnosi Avanzate
 
-## Features
+AI Doctor utilizza potenti algoritmi di machine learning per analizzare sintomi, storie mediche e dati biometrici, garantendo diagnosi accurate e suggerimenti di trattamento personalizzati.
 
-### 1. Virtual Consultations
+![Diagnosi Dettagliate](images/diagnosis_example.png)
 
-AI Doctor facilitates virtual consultations, allowing users to input symptoms and health information for personalized diagnostics.
+### Interfaccia Utente Intuitiva
 
-![Virtual Consultations](images/virtual_consultation.png)
+La nostra interfaccia utente intuitiva semplifica l'inserimento delle informazioni mediche, garantendo un'esperienza fluida per gli utenti.
 
-### 2. Health Monitoring
+## Come Funziona
 
-The AI monitors user-provided health data, offering continuous insights and alerts for potential health risks.
+1. **Inserisci i Dati:** Fornisci sintomi e dati medici.
+2. **Analisi Dettagliata:** Ricevi una diagnosi accurata e consigli di trattamento personalizzati.
 
-![Health Monitoring](images/health_monitoring.png)
+## Privacy e Sicurezza
 
-### 3. Proactive Recommendations
+La sicurezza e la riservatezza dei dati sono al centro della nostra piattaforma. AI Doctor adotta standard elevati per garantire la privacy dei pazienti.
 
-Based on the analyzed data, AI Doctor provides proactive health recommendations, promoting a healthier lifestyle.
+## Prossimi Passi
 
-![Proactive Recommendations](images/proactive_recommendations.png)
+Stiamo costantemente migliorando AI Doctor. Nel nostro fork di esempio, abbiamo incluso un [notebook interattivo](notebooks/AIDoctor_Simulation.ipynb) che simula il processo di diagnosi per comprendere meglio il funzionamento.
 
-## How to Use
+## Contribuisci
 
-1. Clone the repository.
-2. Install dependencies with `npm install`.
-3. Run the application using `npm start`.
+Unisciti a noi nella missione di trasformare l'assistenza sanitaria attraverso l'intelligenza artificiale. Per contribuire, segui le nostre [linee guida per i contributori](CONTRIBUTING.md).
 
-## Data Sources and AI Methods
+## Ringraziamenti
 
-AI Doctor utilizes machine learning algorithms for diagnostic predictions and health recommendations. Data sources include user-provided health information, medical databases, and research findings.
+Ringraziamo la nostra comunità di sviluppatori e gli esperti medici per il loro contributo fondamentale nel plasmare AI Doctor.
 
-## Challenges
-
-While AI Doctor aims to offer valuable insights, it does not replace professional medical advice. Ethical considerations include data privacy and the responsible use of sensitive health information.
-
-## What's Next?
-
-Future developments may include integrating additional medical datasets, refining diagnostic models, and collaborating with healthcare professionals.
-
-## Acknowledgments
-
-AI Doctor draws inspiration from collaborative efforts to enhance healthcare through artificial intelligence. Special thanks to contributors, and respect permissions and licenses when utilizing external materials.
