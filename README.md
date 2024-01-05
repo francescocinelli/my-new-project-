@@ -1,6 +1,8 @@
 # AI Doctor - Diagnosi Mediche Avanzate
 
-![AI Doctor](images/ai_doctor_banner.png)
+![AI Doctor]
+![foto-dottore](https://github.com/francescocinelli/my-new-project-/assets/119416486/543442d8-ae36-4e4c-a272-38c701e5a7f7)
+
 
 ## Introduzione
 
