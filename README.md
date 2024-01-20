@@ -37,7 +37,7 @@ We prioritize the privacy and security of user data. AI Doctor adheres to string
 
 ## Try It Yourself
 
-Feel free to fork this repository and explore our [interactive diagnostic notebook]) to see how AI Doctor performs medical diagnoses.
+Feel free to fork this repository and explore our [[interactive diagnostic notebook]](https://replit.com/@CinelliFrancesco/diagnosi-medica)) to see how AI Doctor performs medical diagnoses.
 
 ## How to Contribute
 
